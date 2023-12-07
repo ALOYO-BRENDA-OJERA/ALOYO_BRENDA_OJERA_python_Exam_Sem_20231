@@ -30,6 +30,6 @@ print(Ebook)
     
     
     #(iv) Class   a class is a blueprint or template that defines the properties, behaviors, 
-    # and methods that objects created from it will have. It acts as
+    # and methods that objects created from it will have. git 
     
     #An object, on the other hand, is an instance of a class. 
